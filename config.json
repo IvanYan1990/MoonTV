@@ -21,9 +21,21 @@
       "api": "https://api.guangsuapi.com/api.php/provide/vod/",
       "name": "光速资源"
     },
+    "jisu": {
+      "api": "https://jszyapi.com/api.php/provide/vod/",
+      "name": "极速资源"
+    },
     "yinghua": {
       "api": "https://m3u8.apiyhzy.com/api.php/provide/vod/",
       "name": "樱花资源网"
+    },
+    "mozhua": {
+      "api": "https://mozhuazy.com/api.php/provide/vod",
+      "name": "魔爪资源"
+    },
+    "mdzy": {
+      "api": "https://www.mdzyapi.com/api.php/provide/vod",
+      "name": "魔都资源"
     },
     "baidu": {
       "api": "https://api.apibdzy.com/api.php/provide/vod/",
@@ -36,6 +48,10 @@
     "dytt": {
       "api": "http://caiji.dyttzyapi.com/api.php/provide/vod/",
       "name": "电影天堂"
+    },
+    "wwdy": {
+      "api": "https://wwzy.tv/api.php/provide/vod",
+      "name": "旺旺短剧"
     },
     "wuxian": {
       "api": "https://api.wuxianzy.net/api.php/provide/vod/",
