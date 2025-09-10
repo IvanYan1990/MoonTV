@@ -81,6 +81,10 @@
       "api": "https://lovedan.net/api.php/provide/vod/",
       "name": "艾旦影视"
     },
+    "doubanzy": {
+      "api": "https://caiji.dbzy5.com/api.php/provide/vod/",
+      "name": "豆瓣资源"
+    },
     "huya": {
       "api": "https://www.huyaapi.com/api.php/provide/vod/",
       "name": "虎牙资源"
