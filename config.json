@@ -81,6 +81,14 @@
       "api": "https://lovedan.net/api.php/provide/vod/",
       "name": "艾旦影视"
     },
+    "huya": {
+      "api": "https://www.huyaapi.com/api.php/provide/vod/",
+      "name": "虎牙资源"
+    },
+    "maotaizy": {
+      "api": "https://caiji.maotaizy.cc/api.php/provide/vod/",
+      "name": "茅台资源"
+    },
     "senlin": {
       "api": "https://slapibf.com/api.php/provide/vod/",
       "name": "森林资源"
