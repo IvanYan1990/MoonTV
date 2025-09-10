@@ -81,6 +81,10 @@
       "api": "https://lovedan.net/api.php/provide/vod/",
       "name": "艾旦影视"
     },
+    "ddmf": {
+      "api": "https://ddmf.net/api.php/provide/vod/",
+      "name": "旦旦资源"
+    },
     "doubanzy": {
       "api": "https://caiji.dbzy5.com/api.php/provide/vod/",
       "name": "豆瓣资源"
@@ -99,8 +103,7 @@
     },
     "aosika": {
       "api": "https://aosikazy.com/api.php/provide/vod/",
-      "name": "奥斯卡资源网",
-      "detail": "https://aosikazy.com/static/help/api.html"
+      "name": "奥斯卡资源网"
     }
   }
 }
